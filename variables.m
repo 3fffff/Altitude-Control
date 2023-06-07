@@ -8,3 +8,7 @@ omega =260
 b=(M*g/4)/(omega^3)%Thrust Coefficient Thrust=thrust coefficient x motor rotation speed
 d=2.0810*(10^(-6)) % Drag Torque Coefficient
 Jr=0.04439
+Ax = 1
+Ay = 1
+Az = 1
+l=1
